@@ -1,0 +1,18 @@
+{
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 30000,
+  "video": false,
+  "experimentalSessionAndOrigin": true,
+  "failOnSnapshotDiff": false,
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+    "reporter": "cypress-mochawesome-reporter",
+    "reporterOptions": {
+      "reportDir": "cypress/report",
+      "charts": true,
+      "reportPageTitle": "Testreport",
+      "embeddedScreenshots": true,
+      "html": true
+    }
+  }
+}
