@@ -1,0 +1,33 @@
+{
+  "name": "orion-automation-suit",
+  "version": "1.0.0",
+  "description": "we are starting with UI automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehaTal/Orion-automation-suit.git"
+  },
+  "author": "Snehal Patil",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0",
+    "cypress-file-upload": "^5.0.2",
+    "cypress-image-snapshot": "^3.1.1",
+    "cypress-localstorage-commands": "^1.7.0",
+    "cypress-mochawesome-reporter": "^3.2.2",
+    "cypress-multi-reporters": "^1.4.0",
+    "cypress-offline-test": "^0.1.0",
+    "mocha": "^8.1.2",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.1.0",
+    "reporter": "^0.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "bugs": {
+    "url": "https://github.com/snehaTal/Orion-automation-suit/issues"
+  },
+  "homepage": "https://github.com/snehaTal/Orion-automation-suit#readme"
+}
